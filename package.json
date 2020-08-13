@@ -1,0 +1,19 @@
+{
+  "name": "superhero-battle-royale-backend",
+  "version": "1.0.0",
+  "description": "the backend for project 3 of GA SEI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MorganMac1993/superhero-battle-royale-backend.git"
+  },
+  "author": "Morgan MacDonald, Dylan Girard, Dan Smith, Anyl Pescal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MorganMac1993/superhero-battle-royale-backend/issues"
+  },
+  "homepage": "https://github.com/MorganMac1993/superhero-battle-royale-backend#readme"
+}
